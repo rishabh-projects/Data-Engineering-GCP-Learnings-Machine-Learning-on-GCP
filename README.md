@@ -1,2 +1,2 @@
-# Data-Engineering-Cloud-Native-AWS-GCP-Azure-Machine-Learning-on-Google-Cloud
-Data Engineering Cloud Native AWS GCP Azure Machine Learning on Google Cloud
+## Data Engineering GCP Learnings
+## Machine Learning on GCP
